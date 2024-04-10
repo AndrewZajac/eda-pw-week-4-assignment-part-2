@@ -1,0 +1,22 @@
+header {
+    background-color: blueviolet;
+}
+
+.info h2 {
+    background-color: blue;
+    color: crimson;
+}
+
+img {
+    border-radius: 50%;
+    border: groove;
+    height: 200px;
+    width: 300px;
+    border-width: 25px;
+    border-color: darkorange;
+}
+
+h3 {
+    background-color: aqua;
+    color: blueviolet;
+}
